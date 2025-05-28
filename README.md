@@ -70,3 +70,13 @@
   <br/>
 </li>
 </ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Create-A-New-User-Account-With-The-Same-Settings-As-Another-User">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Create A New User Account With The Same Settings As Another User
+  </a>
+  <br/>
+</li>
+</ul>
