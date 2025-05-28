@@ -2,16 +2,7 @@
   <a href="https://www.linkedin.com/in/rashadhagen/">
     <img src="https://i.imgur.com/bYUDnOO.png" alt="LinkedIn" width="42px" />
   </a> 
-  <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;"Help Desk Projects List:</span> 
-  <br/>
-</h1>
-
-
-<h1>
-  <a href="https://www.linkedin.com/in/rashadhagen/">
-    <img src="https://i.imgur.com/bYUDnOO.png" alt="LinkedIn" width="42px" />
-  </a> 
-  <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">Active Directory & RSAT & Server Manager:</span> 
+  <span style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold;">Help Desk Full Project List:</span> 
   <br/>
 </h1>
 
