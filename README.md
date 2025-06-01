@@ -121,7 +121,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Microsoft-365-Get-To-Any-Admin-Center">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 – Get To Any Admin Center</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 Admin Center – Get To Any Admin Center</strong>
   </a>
   <br/>
 </li>
