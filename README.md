@@ -106,24 +106,6 @@
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
-  WINDOWS COMPUTER MANAGEMENT
-</strong>
-
-
-<ul>
-<li>
-  <a href="https://github.com/RashadHagen/Computer-Management-Create-A-Local-User-Account/tree/main">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Create A Local User Account</strong>
-  </a>
-  <br/>
-</li>
-</ul>
-
-
-<br />
-
-
-<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
   MICROSOFT 365
 </strong>
 
@@ -164,3 +146,23 @@
   <br/>
 </li>
 </ul>
+
+
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  WINDOWS COMPUTER MANAGEMENT
+</strong>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Computer-Management-Create-A-Local-User-Account/tree/main">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Create A Local User Account</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<br />
+
+
