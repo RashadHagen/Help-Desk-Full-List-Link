@@ -170,6 +170,24 @@
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  PDQ DEPLOY & INVENTORY
+</strong>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software/blob/main/README.md">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Deploy – Deploy Software</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<br />
+
+
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
   WINDOWS COMPUTER MANAGEMENT
 </strong>
 
