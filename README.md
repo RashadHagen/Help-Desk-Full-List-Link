@@ -212,6 +212,16 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Computer-Management-Reactivate-An-Administrator-Account">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Reactivate An Administrator Account</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <br />
 
 
