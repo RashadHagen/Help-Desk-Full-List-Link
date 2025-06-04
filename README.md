@@ -176,7 +176,7 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software/blob/main/README.md">
+  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software">
     <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Deploy – Deploy Software</strong>
   </a>
   <br/>
@@ -194,8 +194,18 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Computer-Management-Create-A-Local-User-Account/tree/main">
+  <a href="https://github.com/RashadHagen/Computer-Management-Create-A-Local-User-Account">
     <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Create A Local User Account</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Computer-Management-Delete-A-Local-User-Account">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Delete A Local User Account</strong>
   </a>
   <br/>
 </li>
