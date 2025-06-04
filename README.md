@@ -148,6 +148,16 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Remote-Assistance-Settings-Change-Remote-Assistance-Settings-On-User-s-Computer">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Remote Assistance Settings – Change Remote Assistance Settings On User’s Computer</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <br />
 
 
