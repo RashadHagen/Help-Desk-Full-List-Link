@@ -200,42 +200,6 @@
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
-  TICKETING
-</strong>
-
-
-<ul>
-<li>
-  <a href="https://github.com/RashadHagen/Spiceworks-Create-A-Ticket">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Spiceworks – Create A Ticket</strong>
-  </a>
-  <br/>
-</li>
-</ul>
-
-
-<br />
-
-
-<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
-  PDQ DEPLOY & INVENTORY
-</strong>
-
-
-<ul>
-<li>
-  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Deploy – Deploy Software</strong>
-  </a>
-  <br/>
-</li>
-</ul>
-
-
-<br />
-
-
-<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
   WINDOWS COMPUTER MANAGEMENT
 </strong>
 
@@ -274,6 +238,42 @@
 <li>
   <a href="https://github.com/RashadHagen/Computer-Management-Set-A-Local-Account-Password">
     <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Set A Local Account Password</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<br />
+
+
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  PDQ DEPLOY & INVENTORY
+</strong>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/PDQ-Deploy-Deploy-Software">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">PDQ Deploy – Deploy Software</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<br />
+
+
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  TICKETING
+</strong>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Spiceworks-Create-A-Ticket">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Spiceworks – Create A Ticket</strong>
   </a>
   <br/>
 </li>
