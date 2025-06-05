@@ -218,8 +218,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/File-Explorer-Remotely-Get-On-Another-User-s-File-Explorer">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">File Explorer – Remotely Get On Another User’s File Explorer</strong>
+  <a href="https://github.com/RashadHagen/File-Explorer-Administrator-Remotely-Get-On-Another-User-s-File-Explorer">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">File Explorer – Administrator Remotely Get On Another User’s File Explorer</strong>
   </a>
   <br/>
 </li>
@@ -284,8 +284,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/File-Explorer-Remotely-Get-On-Another-User-s-File-Explorer">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">File Explorer – Remotely Get On Another User’s File Explorer</strong>
+  <a href="https://github.com/RashadHagen/File-Explorer-Administrator-Remotely-Get-On-Another-User-s-File-Explorer">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">File Explorer – Administrator Remotely Get On Another User’s File Explorer</strong>
   </a>
   <br/>
 </li>
