@@ -288,6 +288,24 @@
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  WINDOWS CONTROL PANEL
+</strong>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Control-Panel-Programs-and-Features-Repair-A-Program-Using-Control-Panel">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Control Panel – Programs and Features – Repair A Program Using Control Panel</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<br />
+
+
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
   FILE EXPLORER
 </strong>
 
