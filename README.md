@@ -142,8 +142,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Exchange-Admin-Center-Mailboxes-Tab-Manage-Individual-and-Group-Mailboxes">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Exchange Admin Center – Mailboxes Tab (Manage Individual and Group Mailboxes)</strong>
+  <a href="https://github.com/RashadHagen/Microsoft-365---Exchange-Admin-Center-Mailboxes-Tab-Manage-Individual-and-Group-Mailboxes-">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 - Exchange Admin Center – Mailboxes Tab (Manage Individual and Group Mailboxes)</strong>
   </a>
   <br/>
 </li>
@@ -152,8 +152,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Exchange-Admin-Center-Message-Trace-Tab---Message-Trace-An-Email">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Exchange Admin Center – Message Trace Tab - Message Trace An Email</strong>
+  <a href="https://github.com/RashadHagen/Microsoft-365---Exchange-Admin-Center-Message-Trace-Tab---Message-Trace-An-Email">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 - Exchange Admin Center – Message Trace Tab - Message Trace An Email</strong>
   </a>
   <br/>
 </li>
@@ -162,8 +162,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Exchange-Admin-Center-Mail-Flow-Tab-Add-A-Rule-To-Outlook-Emails">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Exchange Admin Center – Mail Flow Tab - Add A Rule To Outlook Emails</strong>
+  <a href="https://github.com/RashadHagen/Microsoft-365---Exchange-Admin-Center-Mail-Flow-Tab---Add-A-Rule-To-Outlook-Emails">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft 365 - Exchange Admin Center – Mail Flow Tab - Add A Rule To Outlook Emails</strong>
   </a>
   <br/>
 </li>
