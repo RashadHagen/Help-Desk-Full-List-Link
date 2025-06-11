@@ -281,7 +281,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Command-Prompt-Ping">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – Ping</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – ping</strong>
   </a>
   <br/>
 </li>
@@ -291,7 +291,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Command-Prompt-Find-A-Computer-s-IP-Address-Using-The-Computer-s-Name">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – Find A Computer’s IP Address Using The Computer’s Name</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – ping (user’s computer name) - Find A Computer’s IP Address Using The Computer’s Name</strong>
   </a>
   <br/>
 </li>
