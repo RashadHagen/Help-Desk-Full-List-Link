@@ -361,7 +361,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Command-Prompt-nslookup-www.website.com-OR-IP-Address">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – Type: nslookup (website address) (OR) nslookup (IP Address)</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – nslookup (website address)  (OR)  nslookup (IP Address)</strong>
   </a>
   <br/>
 </li>
