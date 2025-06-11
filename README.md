@@ -330,6 +330,16 @@
 
 <ul>
 <li>
+  <a href="https://github.com/RashadHagen/Command-Prompt-net-user-computer-name-">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – net user (computer name)</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
   <a href="https://github.com/RashadHagen/Command-Prompt-ipconfig">
     <strong style="font-family: Arial, sans-serif; font-size: 16px;">Command Prompt – ipconfig</strong>
   </a>
