@@ -155,6 +155,16 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Find-Command-Net-User-Username-Information-Via-Properties-Attribute-Editor">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Find Command Net User (Username) Information Via Properties Attribute Editor</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
   MICROSOFT 365
 </strong>
