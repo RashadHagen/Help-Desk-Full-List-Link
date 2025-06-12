@@ -132,9 +132,6 @@
 </ul>
 
 
-<br />
-
-
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/ADUC-Organizational-Unit-Enable-OR-Disable-Protect-Object-From-Accidental-Deletion-Option">
@@ -163,6 +160,9 @@
   <br/>
 </li>
 </ul>
+
+
+<br />
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
