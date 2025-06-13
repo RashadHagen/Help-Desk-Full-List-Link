@@ -192,6 +192,16 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/ADUC-Disable-OR-Enable-A-Computer-OR-User-Account">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Disable OR Enable A Computer OR User Account</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <br />
 
 
