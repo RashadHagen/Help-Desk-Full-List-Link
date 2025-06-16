@@ -202,6 +202,16 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Reset-A-User-s-Password-And-Check-The-Last-Time-Their-Password-Was-Set">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Active Directory Users and Computers (ADUC) - Reset A User’s Password And Check The Last Time Their Password Was Set</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <br />
 
 
