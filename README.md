@@ -753,14 +753,4 @@
 </ul>
 
 
-<ul>
-<li>
-  <a href="https://github.com/RashadHagen/Spiceworks-Create-A-Ticket">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Spiceworks – Create A Ticket</strong>
-  </a>
-  <br/>
-</li>
-</ul>
-
-
 <br />
