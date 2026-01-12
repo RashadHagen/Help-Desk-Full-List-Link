@@ -404,6 +404,96 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID - Open Microsoft Entra ID From Portal.Azure.com</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Create-And-Configure-A-New-User-Account">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID - Create And Configure A New User Account</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/-Microsoft-Entra-ID-Invite-An-External-User-Onto-Your-Tenant">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID - Invite An External User Onto Your Tenant</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Create-A-Group-Account">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID - Create A Group Account</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Allow-Access-To-Management-Groups-And-Subscriptions">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID – Allow Access To Management Groups And Subscriptions</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Management-Groups-Create-A-Management-Group">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Groups – Create A Management Group</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Management-Groups-Assign-And-Review-A-Built-In-Azure-Role">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Groups – Assign And Review A Built-In Azure Role</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Management-Groups-Create-A-Custom-RBAC-Role">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Groups – Create A Custom RBAC Role</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Management-Groups-Monitor-Role-Assignments-With-Activity-Log">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Groups – Monitor Role Assignments With Activity Log</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <br />
 
 
