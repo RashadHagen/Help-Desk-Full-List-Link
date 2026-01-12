@@ -5,6 +5,11 @@
 </h1>
 
 
+<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
+  VIRTUAL MACHINE
+</strong>
+
+
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/VirtualBox-Create-And-Connect-Windows-OS-As-Host-Only-To-Windows-Server-As-NAT">
@@ -13,6 +18,9 @@
   <br/>
 </li>
 </ul>
+
+
+<br />
 
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
@@ -781,11 +789,3 @@
   <br/>
 </li>
 </ul>
-
-
-<strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
-  VIRTUAL MACHINE
-</strong>
-
-
-<br />
