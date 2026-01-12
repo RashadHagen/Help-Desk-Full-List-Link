@@ -5,6 +5,16 @@
 </h1>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/VirtualBox-Create-And-Connect-Windows-OS-As-Host-Only-To-Windows-Server-As-NAT">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">VirtualBox – How To Create And Connect Windows OS As Host-Only To Windows Server As NAT</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
   SERVER MANAGER & SERVER MANAGER TOOLS & RSAT
 </strong>
@@ -776,16 +786,6 @@
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">
   VIRTUAL MACHINE
 </strong>
-
-
-<ul>
-<li>
-  <a href="https://github.com/RashadHagen/VirtualBox-Create-And-Connect-Windows-OS-As-Host-Only-To-Windows-Server-As-NAT">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">VirtualBox – How To Create And Connect Windows OS As Host-Only To Windows Server As NAT</strong>
-  </a>
-  <br/>
-</li>
-</ul>
 
 
 <br />
